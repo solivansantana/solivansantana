@@ -28,10 +28,6 @@ Focused on:
 # 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,kubernetes,docker,gitlab,grafana,prometheus,git,bash,linux" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,kubernetes,docker,gitlab,grafana,prometheus,git,bash,linux&theme=dark" />
 </p>
 
