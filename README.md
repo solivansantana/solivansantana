@@ -27,8 +27,13 @@ Focused on:
 
 # 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,kubernetes,docker,gitlab,grafana,prometheus,linux,vscode" />
+<p align="left">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ---
