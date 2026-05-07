@@ -28,16 +28,16 @@ Focused on:
 # 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,kubernetes,docker,gitlab,grafana,prometheus,git,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,kubernetes,docker,gitlab,grafana,prometheus,git,bash,linux" />
 </p>
 
 <p align="left">
-  <img height="32" src="https://cdn.simpleicons.org/argo/EF7B4D" />
-  <img height="32" src="https://cdn.simpleicons.org/sonarqube/4E9BCD" />
-  <img height="32" src="https://cdn.simpleicons.org/sonatype/1B1C30" />
-  <img height="32" src="https://cdn.simpleicons.org/vault/FFEC6E" />
-  <img height="32" src="https://cdn.simpleicons.org/keycloak/4D4D4D" />
-  <img height="32" src="https://cdn.simpleicons.org/grafana/FF4D00" />
+  <img height="48" src="https://cdn.simpleicons.org/argo/EF7B4D" />
+  <img height="48" src="https://cdn.simpleicons.org/sonarqube/4E9BCD" />
+  <img height="48" src="https://cdn.simpleicons.org/sonatype/1B1C30" />
+  <img height="48" src="https://cdn.simpleicons.org/vault/FFEC6E" />
+  <img height="48" src="https://cdn.simpleicons.org/keycloak/4D4D4D" />
+  <img height="48" src="https://cdn.simpleicons.org/grafana/FF4D00" />
 </p>
 
 ---
