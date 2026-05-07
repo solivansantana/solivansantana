@@ -28,16 +28,26 @@ Focused on:
 # 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,kubernetes,docker,gitlab,grafana,prometheus,git,bash,linux" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </p>
 
 <p align="left">
-  <img height="48" src="https://cdn.simpleicons.org/argo/EF7B4D" />
-  <img height="48" src="https://cdn.simpleicons.org/sonarqube/4E9BCD" />
-  <img height="48" src="https://cdn.simpleicons.org/sonatype/1B1C30" />
-  <img height="48" src="https://cdn.simpleicons.org/vault/FFEC6E" />
-  <img height="48" src="https://cdn.simpleicons.org/keycloak/4D4D4D" />
-  <img height="48" src="https://cdn.simpleicons.org/grafana/FF4D00" />
+  <img height="28" src="https://cdn.simpleicons.org/argo/EF7B4D" />
+  <img height="28" src="https://cdn.simpleicons.org/sonarqube/4E9BCD" />
+  <img height="28" src="https://cdn.simpleicons.org/sonatype/black" />
+  <img height="28" src="https://cdn.simpleicons.org/vault/FFEC6E" />
+  <img height="28" src="https://cdn.simpleicons.org/keycloak/4D4D4D" />
+  <img height="28" src="https://cdn.simpleicons.org/loki/F46800" />
 </p>
 
 ---
